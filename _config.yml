@@ -3,3 +3,4 @@ description: A portfolio to showcase my DS/ML project. Contact me if interested
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+include: ['**/*.py']
